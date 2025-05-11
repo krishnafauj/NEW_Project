@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Phone } from 'lucide-react';
-import Services from './pages/services';
+import Services from './pages/Services';
 import Navbar from './pages/Navbar';
 import Brand from './pages/Brand';
 import Contacts from './pages/Contacts';
